@@ -12,6 +12,4 @@ Outside of code, I'm into anime, music, and writing about the lessons I've picke
 
 **Still learning. Still growing. Still figuring things out.**
 
----
-
-🌐 [Portfolio](https://bienmendozajr.vercel.app/) · ✍️ [Writing](https://bienmendozajr.vercel.app/blog)
+🌐 [Portfolio](https://bienmendozajr.vercel.app/) · 💼 [LinkedIn](https://www.linkedin.com/in/bienvenido-jr-mendoza-52828824a)
