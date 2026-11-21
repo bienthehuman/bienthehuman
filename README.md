@@ -1,28 +1,23 @@
 # Hi, I'm Bien
 
-**Full-stack software engineer. Human behind the code.**
+Full-stack software engineer in the Philippines, open to full-time and freelance work.
 
-Code is part of the story, not the whole of it.
+I've been building business applications, APIs, and data-heavy workflows since 2022, mostly on the backend with Laravel, .NET, Django, and PostgreSQL. I try to understand the problem before I write code, and I keep the solution as simple as it can be.
 
-I build business applications, APIs, and data-heavy workflows, mostly on the backend. Professionally since 2022.
+### What I've built
 
-Keep it simple, stupid. If the developer is confused, the customer will be more confused.
+- **[Hilom](https://github.com/bienthehuman/hilom)**: a hospital system. ASP.NET Core, Angular, PostgreSQL.
+- **[Reserve Vision](https://github.com/bienthehuman/reserve-vision)**: reservations for apartments and boarding-house beds across multiple landlords, with no double-booking. Laravel, Inertia, React.
+- **[Talaan](https://github.com/bienthehuman/talaan)**: offline-first sync for data collected in the field. TypeScript.
 
-**Stack:** Laravel, .NET, Django, PostgreSQL, React, Blazor, AWS, Azure.
+### What I'm working on
 
-### Projects
+A job and webhook platform with durable retries and crash recovery.
 
-- **[Hilom](https://github.com/bienthehuman/hilom)**: hospital system. ASP.NET Core, Angular, PostgreSQL.
-- **[Reserve Vision](https://github.com/bienthehuman/reserve-vision)**: multi-landlord reservations with no double-booking. Laravel, React.
-- **[Talaan](https://github.com/bienthehuman/talaan)**: offline-first field data sync. TypeScript.
-- **Job + webhook platform** (in progress): durable retries and crash recovery.
+### Outside of code
 
-Most of my work lives in private repos.
+Fate/stay night: Unlimited Blade Works, punk, rock, and OPM. The username is a reminder that code is only part of who I am.
 
 ### Contact
 
-Open to full-time and freelance work. Based in the Philippines (UTC+8).
-
 [Portfolio](https://bienmendozajr.vercel.app/) · [Blog](https://bienmendozajr.vercel.app/blog/) · [LinkedIn](https://www.linkedin.com/in/bienvenido-jr-mendoza-52828824a) · [Email](mailto:bienvenidojr.mendoza@gmail.com)
-
-Off the clock: Fate/stay night: Unlimited Blade Works, punk, rock and OPM.
