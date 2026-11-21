@@ -7,8 +7,8 @@ I've been building business applications, APIs, and data-heavy workflows since 2
 ### What I've built
 
 - **[Hilom](https://github.com/bienthehuman/hilom)**: a hospital system. ASP.NET Core, Angular, PostgreSQL.
-- **[Reserve Vision](https://github.com/bienthehuman/reserve-vision)**: reservations for apartments and boarding-house beds across multiple landlords, with no double-booking. Laravel, Inertia, React.
-- **[Talaan](https://github.com/bienthehuman/talaan)**: offline-first sync for data collected in the field. TypeScript.
+- **[ReserveVision](https://github.com/bienthehuman/reserve-vision)**: reservations for apartments and boarding-house beds across multiple landlords, with no double-booking. Laravel, Inertia, React.
+- **[Talaan](https://github.com/bienthehuman/talaan)**: offline-first sync for data collected in the field. Django, React.
 
 ### What I'm working on
 
