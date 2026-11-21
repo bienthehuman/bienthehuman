@@ -1,20 +1,28 @@
-# Hi, I'm Bien 👋
+# Hi, I'm Bien
 
 **Full-stack software engineer. Human behind the code.**
 
-Building business applications, APIs, and data-heavy workflows professionally since 2022. I care most about backend architecture, databases, and systems that are simple, maintainable, and useful, and about [understanding people's problems](https://bienmendozajr.vercel.app/blog/what-needs-to-be-done/) before writing code. Outside of code: anime, music, and writing about what I learn.
+Code is part of the story, not the whole of it.
 
-```
-[ok]   backend   Laravel · Django (DRF) · .NET
-[ok]   data      PostgreSQL · MySQL
-[ok]   apis      REST · SOAP · OAuth · JWT
-[ok]   frontend  React · TypeScript · Blazor · .NET MAUI
-[ok]   cloud     AWS (EC2, S3) · Azure · Azure DevOps
-[run]  building  job + webhook platform: durable retries, crash recovery
-```
+I build business applications, APIs, and data-heavy workflows, mostly on the backend. Professionally since 2022.
 
-My contribution graph is sparse. The systems I build are busy elsewhere.
+Keep it simple, stupid. If the developer is confused, the customer will be more confused.
 
-Open to conversations about backend, database, and full-stack work.
+**Stack:** Laravel, .NET, Django, PostgreSQL, React, Blazor, AWS, Azure.
 
-🌐 [Portfolio](https://bienmendozajr.vercel.app/) · 🧪 [API Playground](https://bienmendozajr.vercel.app/playground/) · ✍️ [Blog](https://bienmendozajr.vercel.app/blog/) · 💼 [LinkedIn](https://www.linkedin.com/in/bienvenido-jr-mendoza-52828824a) · 📧 [Email](mailto:bienvenidojr.mendoza@gmail.com)
+### Projects
+
+- **[Hilom](https://github.com/bienthehuman/hilom)**: hospital system. ASP.NET Core, Angular, PostgreSQL.
+- **[Reserve Vision](https://github.com/bienthehuman/reserve-vision)**: multi-landlord reservations with no double-booking. Laravel, React.
+- **[Talaan](https://github.com/bienthehuman/talaan)**: offline-first field data sync. TypeScript.
+- **Job + webhook platform** (in progress): durable retries and crash recovery.
+
+Most of my work lives in private repos.
+
+### Contact
+
+Open to full-time and freelance work. Based in the Philippines (UTC+8).
+
+[Portfolio](https://bienmendozajr.vercel.app/) · [Blog](https://bienmendozajr.vercel.app/blog/) · [LinkedIn](https://www.linkedin.com/in/bienvenido-jr-mendoza-52828824a) · [Email](mailto:bienvenidojr.mendoza@gmail.com)
+
+Off the clock: Fate/stay night: Unlimited Blade Works, punk, rock and OPM.
